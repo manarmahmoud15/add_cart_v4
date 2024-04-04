@@ -1,3 +1,4 @@
+import cart from "./cart.js";
 const products = [
     {
         "id": 1,
